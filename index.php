@@ -11,7 +11,7 @@
 <!-- 【課題1の答え】 -->
 <form action="/reference-php" method="GET"> <!-- 入力された内容をGETメソッドで/reference-phpへ送信する --> 
 <input type="text" placeholder="名前を入力してください"name="user-name">
-<input type="submit">
+<input type="submit">"
 </form>
 
 <?php 
@@ -116,7 +116,7 @@ echo "今日は".date("Y/m/d").$week[$w]."です";
 
 
                 </form>
-        </section>
+        </section>"
     </article>
 
 
